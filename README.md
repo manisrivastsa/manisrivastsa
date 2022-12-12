@@ -1,4 +1,4 @@
-z# [Hi I am Mani srivastsa 🤦]
+# [Hi I am Mani srivastsa 🤦]
 ## I am a data analyst  by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star:
 
@@ -10,9 +10,7 @@ z# [Hi I am Mani srivastsa 🤦]
 [twitter]: https://twitter.com/ManiSrivatsa
 [Instagram]: https://www.instagram.com/cyber_warrior619/
 
-<img src=https://github.com/manisrivastsa/profile/blob/main/8F63FE2F-359A-4DB6-A530-119257AD4262.jpeg
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
-         <!-- About me -->
+<!-- About me -->
 									       
 - 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/cyber_warrior619/),I would love to see you join.
 - 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
@@ -46,25 +44,7 @@ z# [Hi I am Mani srivastsa 🤦]
 ### My Digital Garden 🏡🌱
 
 <!-- BLOG-POST-LIST:START -->
-I write regular blog posts, most of which you will find on my personal website [Dark Web](https://develover.hashnode.dev/)
-- [Are you worried about your website under attack?](https://develover.hashnode.dev/secure-your-wordpress-website)
-- [Google removes a fake ‘Netflix’ app that’s been spreading malware via WhatsApp](https://develover.hashnode.dev/fake-netflix-app)
-- [Great talk by Sam Julien](https://develover.hashnode.dev/great-talk-by-sam-julien)
-- [How I created a MEME bot using python](https://develover.hashnode.dev/how-i-created-a-meme-bot-using-python)
-- [Working on Open Source AI Project to Tune Models](https://develover.hashnode.dev/working-on-open-source-ai-project-to-tune-models)
-- [Future Of Cloud Computing –Trends & Predictions 2021](https://develover.hashnode.dev/future-of-cloud-computing-trends-and-predictions-2021)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://develover.hashnode.dev/)
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mani srivastsa github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananya-0306&layout=compact&theme=material-palenight" />
+I write regular blog posts, most of which you will find on my personal website camingsoon.!
 </a>
 <br />
 <br />	
