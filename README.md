@@ -10,7 +10,7 @@
 [twitter]: https://twitter.com/ManiSrivatsa
 [Instagram]: https://www.instagram.com/cyber_warrior619/
 
-<img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/IMG_20220104_121327.png" alt="Ananya chatterjee is here" />
+<img src="https://github.com/manisrivastsa/blob/main/IMG_1924.jpeg" alt="Mani srivastsa is here" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
          <!-- About me -->
 									       
@@ -60,7 +60,7 @@ I write regular blog posts, most of which you will find on my personal website [
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ananya's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ananya-0306&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Mani srivastsa github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
