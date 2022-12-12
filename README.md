@@ -10,7 +10,7 @@
 [twitter]: https://twitter.com/ManiSrivatsa
 [Instagram]: https://www.instagram.com/cyber_warrior619/
 
-<img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/IMG_20220104_121327.png" alt="Ananya chatterjee is here" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
          <!-- About me -->
 									       
