@@ -10,8 +10,12 @@
 [twitter]: https://twitter.com/ManiSrivatsa
 [Instagram]: https://www.instagram.com/cyber_warrior619/
 
-<!-- About me -->
+<img src="https://github.com/Ananya-0306/Ananya-0306/blob/main/IMG_20220104_121327.png" alt="Ananya chatterjee is here" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
+         <!-- About me -->
 									       
+
+									      
 - 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/cyber_warrior619/),I would love to see you join.
 - 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 - 📫 How to reach me **mani.srivastsa@gmail.com**
