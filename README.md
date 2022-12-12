@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @manisrivastsa
+- 👀 I’m interested in ...data analyst
+- 🌱 I’m currently learning ...google data analyst 
+- 💞️ I’m looking to collaborate on ...with all of you.
+- 📫 How to reach me ...mani.srivastsa@gmail.com
