@@ -1,4 +1,4 @@
-# [Hi I am Mani srivastsa 🤦]
+z# [Hi I am Mani srivastsa 🤦]
 ## I am a data analyst  by Day & student by Night. In between, I squeeze in some travel. To stay sane. To connect with myself. To be inspired.
 ### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star:
 
@@ -10,11 +10,11 @@
 [twitter]: https://twitter.com/ManiSrivatsa
 [Instagram]: https://www.instagram.com/cyber_warrior619/
 
-<img src="https://github.com/manisrivastsa/blob/main/IMG_1924.jpeg" alt="Mani srivastsa is here" />
+<img src=https://github.com/manisrivastsa/profile/blob/main/8F63FE2F-359A-4DB6-A530-119257AD4262.jpeg
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananya-0306&label=Profile%20views&color=0e75b6&style=flat" alt="ananya-0306" /> </p>
          <!-- About me -->
 									       
-- 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to on [Hashnode](https://develover.hashnode.dev/). If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/_iananya__/), and sign up for my newsletter at [Hacksociety]([https://hacksociety.biz](https://www.hackittech.com/Hac-Society/index.html)) I would love to see you join.
+- 💡What can I tell you about myself? I dream a lot sometimes they come true :) Like writing poetry, like paintings, like loving a few precious people. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please feel free to send a tip, give me a shout out on [Instagram](https://www.instagram.com/cyber_warrior619/),I would love to see you join.
 - 💬I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
 - 📫 How to reach me **mani.srivastsa@gmail.com**
 ----
